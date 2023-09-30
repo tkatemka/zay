@@ -493,6 +493,7 @@ footer a{
 .footer-nav__column--title-zay{
   color: rgb(105,187,126);
   font-weight: bolder;
+  padding-bottom: 4.5%;
 }
 
 .footer-nav span, .footer-nav a{
