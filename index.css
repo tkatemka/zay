@@ -167,10 +167,14 @@ body {
 }
 
 /*Динамический поиск*/
-.nav .nav__search {
+.nav .nav__search-container{
+  position: absolute;
+  left: 80%;
+}
+/* .nav .nav__search {
   position: relative;
   right: 19.25%;
-}
+} */
 .nav__search{
   position: relative;
   width: 40px;
